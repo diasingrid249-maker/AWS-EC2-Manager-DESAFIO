@@ -1,1 +1,9 @@
+## 🔗 Diagrama de Interação dos Serviços AWS
+
+Abaixo está a visualização da interação entre **EC2, AMI, EBS, Snapshots e Security Groups**:
+
+![Diagrama AWS](./images/aws_ec2_diagrama.png)
+
+> Caso prefira a versão vetorial, use:  
+> ![Diagrama AWS](./images/aws_ec2_diagrama.svg)
 
