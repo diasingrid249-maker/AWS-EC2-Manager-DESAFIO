@@ -47,6 +47,13 @@ Este repositório contém minhas anotações, práticas e insights adquiridos du
 ## 📷 Evidências
 
 As imagens do processo estão organizadas na pasta `/images`:
+## 🔗 Diagrama de Interação dos Serviços AWS
+
+Abaixo está a visualização da interação entre **EC2, AMI, EBS, Snapshots e Security Groups**:
+
+![Diagrama AWS](.<img width="632" height="425" alt="Image" src="https://github.com/user-attachments/assets/2546223a-fff7-4d2d-80d6-c0b5a04d6ffe" />)
+
+
 
 - Criação da instância EC2
 - Configuração de segurança
