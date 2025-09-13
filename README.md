@@ -3,7 +3,6 @@
 Este repositório contém minhas anotações, práticas e insights adquiridos durante o laboratório de **Gerenciamento de Instâncias EC2** no bootcamp da DIO.
 
 ---
-
 ## 📚 Objetivos do Desafio
 
 - Aplicar conceitos aprendidos em ambiente prático;
