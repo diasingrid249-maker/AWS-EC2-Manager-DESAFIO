@@ -19,6 +19,8 @@ Este documento registra o **passo a passo** das práticas realizadas durante o d
 
 📌 **Comando para conectar via SSH:**
 ```bash
+ssh -i "minha-chave.pem" ec2-user@<IP_Público_da_Instância>
+
 
 2. Criação de uma AMI (Amazon Machine Image)
 
