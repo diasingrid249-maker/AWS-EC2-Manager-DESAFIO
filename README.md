@@ -1,19 +1,6 @@
 # 🚀 Desafio: Gerenciamento de Instâncias EC2 na AWS
 
 
-
-
-
-aws-ec2-lab/
-│
-├── README.md
-├── /images
-│   ├── instancia-ec2.png
-│   ├── snapshot-ebs.png
-│   └── ami-criada.png
-└── anotações.md
-
-
 Este repositório contém minhas anotações, práticas e insights adquiridos durante o laboratório de **Gerenciamento de Instâncias EC2** no bootcamp da DIO.
 
 ---
